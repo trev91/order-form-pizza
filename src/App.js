@@ -178,7 +178,7 @@ class App extends Component {
               }
 
               {this.state.cart.length === 0 &&
-                <p>No pizzas in the over for you yet!</p>
+                <p>No pizzas in the oven for you yet!</p>
               }
 
             </div>
